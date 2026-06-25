@@ -1,0 +1,6 @@
+{
+  "name": "Ocular Work Breaks",
+  "description": "Reminds computer work users to take regular discrete desk-stretching breaks and perform 20/20/20 eye exercises to prevent eye strain and fatigue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
